@@ -16,7 +16,7 @@ Faculté Moulay Ismail- Meknes
 ## Compétences techniques
 -Maîtrise des Accords de niveau de service (SLA) 
 
--Outils de ticketing (ex. ServiceNow, Jira, Remedy) 
+-Outils de ticketing et de monitoring (ex. ServiceNow, Grafana) 
 
 -Microsoft 365 et Active Directory
 
@@ -24,7 +24,7 @@ Faculté Moulay Ismail- Meknes
 
 -ITIL V4
 
--Analyse d'impact
+-Analyse de root cause
 
 -SCCM/Bomgar
 
