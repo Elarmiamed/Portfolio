@@ -3,6 +3,7 @@ Incident Manager avec plus de 6 ans d'expérience dans la gestion d'incidents , 
 
 ## Certifications
 2023-07: ITIL V4 Fondation
+
 2024-08: Méthodologie Agile et Scrum
 
 ## Formations
