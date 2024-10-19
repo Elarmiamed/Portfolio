@@ -1,17 +1,17 @@
 # Incident Problem Manager
 Incident Manager avec plus de 6 ans d'expérience dans la gestion d'incidents , la résolution de problèmes , et l'amélioration continue des processus IT. Fort d'une expertise en ITIL, j'ai dirigé des équipes techniques chez des entreprises de premier plan, en assurant la stabilité des systèmes et la satisfaction des clients. Mon approche proactive et analytique, combinée à ma capacité à gérer des crises et à optimiser les performances, me permet de délivrer des résultats tangibles tout en soutenant les objectifs de l'entreprise.
 
-##Certifications
+## Certifications
 2023-07: ITIL V4 Fondation
 2024-08: Méthodologie Agile et Scrum
 
-##Formations
-###2014-09 - 2016-07: Master Universitaire Spécialisé: Securité Des Systèmes
+## Formations
+### 2014-09 - 2016-07: Master Universitaire Spécialisé: Securité Des Systèmes
 Université Mohammed V - Rabat
-###2010-09 - 2014-07: Licence: Méthodes IT Appliquées À La Gestion D'entreprise
+### 2010-09 - 2014-07: Licence: Méthodes IT Appliquées À La Gestion D'entreprise
 Faculté Moulay Ismail- Meknes
 
-##Compétences techniques
+## Compétences techniques
 -Maîtrise des Accords de niveau de service (SLA) 
 -Outils de ticketing (ex. ServiceNow, Jira, Remedy) 
 -Microsoft 365 et Active Directory
@@ -22,7 +22,7 @@ Faculté Moulay Ismail- Meknes
 -SAP Logon
 -Windows server, Microsoft Windows
 
-##compétences
+## compétences
 • Capacité à résoudre des problèmes complexes
 • Communication en temps de crise
 • Coordination d'équipe
@@ -33,11 +33,11 @@ Faculté Moulay Ismail- Meknes
 • Gestion des priorités
 • Reporting
 
-##Experiences professionnelles
-###2020-08 - Présent: Incident - Problem Manager
+## Experiences professionnelles
+### 2020-08 - Présent: Incident - Problem Manager
 Nestlè France
 
-####Gestion des incidents
+#### Gestion des incidents
 • Contrôler et surveiller le traitement des incidents, y compris la révision de la priorisation et le contrôle de la communication.
 • Prendre en charge et coordonner les incidents de haute priorité, en organisant et animant des conférences téléphoniques et en rédigeant des chronogrammes techniques de compte- rendu d'incident.
 • Activer le dispositif de crise en cas de besoin pour minimiser l'impact sur les opérations. 
@@ -54,7 +54,7 @@ Nestlè France
 • Participer activement au conseil de gestion des services.
 • Analyser les données pour fournir des rapports sur les performances du service.
 
-####Gestion des problèmes
+#### Gestion des problèmes
 • Organiser et présider les réunions d'enquête sur les problèmes et suivre la création et la mise à jour des enregistrements de problèmes.
 • Mener des enquêtes pour identifier la cause profonde des problèmes et proposer des actions correctives pour améliorer les services.
 • Être l'interlocuteur unique pour tous les problèmes, veillant au respect des accords de niveau de service.
@@ -63,7 +63,7 @@ Nestlè France
 • Préparer des rapports quotidiens, hebdomadaires et mensuels sur la gestion des problèmes et fournir des recommandations pour le développement des processus et l'amélioration des performances.
 • Appliquer une approche analytique et systématique à la résolution des problèmes, avec un excellent jugement et une forte capacité de prise de décision.
 
-###2018-07 - 2020-07: Incident Manager
+### 2018-07 - 2020-07: Incident Manager
 AXA
 
 • Contrôler et surveiller le traitement des incidents (révision de la priorisation, contrôle de la communication, relance).
@@ -86,7 +86,7 @@ AXA
 • Parcourir régulièrement le processus de gestion des problèmes en utilisant des données
 recueilles sur la fréquence et la gravité des incidents.
 
-###2016-10 - 2018-07: Incident Analyst
+### 2016-10 - 2018-07: Incident Analyst
 AXA
 
 • Gestion des incidents : Recevoir, enregistrer, et prioriser les incidents signalés par les utilisateurs.
@@ -99,7 +99,7 @@ AXA
 • Amélioration continue : Participer à l'élaboration et à la mise à jour des procédures de gestion des incidents pour améliorer l'efficacité du processus.
 • Proposer des recommandations pour éviter la récurrence des incidents.
 
-###2013-09 - 2016-10: Ingénieur Support
+### 2013-09 - 2016-10: Ingénieur Support
 AXA
 
 • Fourniture d'une assistance technique aux clients pour l'utilisation des équipements réseau, y compris des instructions détaillées sur l'installation et la configuration.
