@@ -7,6 +7,7 @@ Incident Manager avec plus de 6 ans d'expérience dans la gestion d'incidents , 
 2024-08: Méthodologie Agile et Scrum
 
 ## Formations
+
 ### 2014-09 - 2016-07: Master Universitaire Spécialisé: Securité Des Systèmes
 Université Mohammed V - Rabat
 ### 2010-09 - 2014-07: Licence: Méthodes IT Appliquées À La Gestion D'entreprise
@@ -14,13 +15,21 @@ Faculté Moulay Ismail- Meknes
 
 ## Compétences techniques
 -Maîtrise des Accords de niveau de service (SLA) 
+
 -Outils de ticketing (ex. ServiceNow, Jira, Remedy) 
+
 -Microsoft 365 et Active Directory
+
 -Analyse des incidents
+
 -ITIL V4
+
 -Analyse d'impact
+
 -SCCM/Bomgar
+
 -SAP Logon
+
 -Windows server, Microsoft Windows
 
 ## compétences
